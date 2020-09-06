@@ -1,4 +1,4 @@
-# Hi, Welcome to this Analysis of Climate Data for Kolkata (Temperature and Precipitation, January 1, 1980 to August 31, 2020)
+# Hi! Welcome to this Analysis of Climate Data for Kolkata (Temperature and Precipitation, January 1, 1980 to August 31, 2020)
 
 The purpose of this anaylsis is to
 1. Explore the data, to predict/observe trends, changes, or variations in the variables
